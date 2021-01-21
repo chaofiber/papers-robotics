@@ -1,4 +1,3 @@
-# papers-robotics
 Notes of papers in robotics
 
 2020
