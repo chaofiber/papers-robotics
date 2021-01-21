@@ -12,6 +12,16 @@ Notes of papers in robotics
 - Dynamics Randomization Revisited: A Case Study for Quadrupedal Locomotion [[Paper](https://arxiv.org/pdf/2011.02404)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/dynamic-random.pdf)]
     - Zhaoming Xie, Xingye Da
 
+- Learning Agile Robotic Locomotion Skills by Imitating Animals [[Paper](https://arxiv.org/pdf/2004.00784)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/learning-by-imitation.pdf)]
+    - Xue Bin Peng, Erwin Coumans, Tingnan Zhang, Tsang-Wei Edward Lee, Jie Tan,  Sergey Levine
+
+- C-CROC: Continuous and Convex Resolution of Centroidal Dynamic Trajectories for Legged Robots in Multicontact Scenarios [[Paper](https://ieeexplore.ieee.org/iel7/8860/4359257/08972482.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/croc.pdf)]
+    - ierre Fernbach, Steve Tonneau
+
+- Multi-expert learning of adaptive legged locomotion [[Paper](https://robotics.sciencemag.org/content/5/49/eabb2174)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/multi-expert.pdf)]
+    - Chuanyu Yang, Kai Yuan, Zhibin Li
+
+
 2019
 - Frequency-Aware Model Predictive Control [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8629284)][[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/Frequency-Aware-Model-Predictive-Control.pdf)]
     - Ruben Grandia, Farbod Farshidian, Alexey Dosovitskiy,Ren ́e Ranftl, and Marco Hutter
@@ -22,16 +32,30 @@ Notes of papers in robotics
 - Policy Transfer with Strategy Optimization [[Paper](https://arxiv.org/pdf/1810.05751)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/policy-transfer-strategy-optimization.pdf)]
     - Wenhao Yu, C. Karen Liu, Greg Turk
 
+- Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control [[Paper](https://arxiv.org/pdf/1909.06586)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/cheetah-wbc-mpc.pdf)]
+    - Donghyun Kim, Jared Di Carlo, Benjamin Katz, Gerardo Bledt, and Sangbae Kim
+
+- Feedback MPC for Torque-Controlled Legged Robots [[Paper](https://arxiv.org/pdf/1905.06144)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/wbc-mpc.pdf)]
+    - Ruben Grandia, Farbod Farshidian, René Ranftl, Marco Hutter
 
 2018
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots [[Paper](https://arxiv.org/pdf/1804.10332.pdf?source%3Dpost_page---------------------------)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/sim-to-real.pdf)]
     - Jie Tan, Tingnan Zhang, Erwin Coumans, Atil Iscen
 
 - Policies Modulating Trajectory Generators [[Paper](http://proceedings.mlr.press/v87/iscen18a/iscen18a.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/pmtg.pdf)]
-    - Atil Iscen, Ken Caluwaerts, Erwin Coumans, Jie Tan 2
+    - Atil Iscen, Ken Caluwaerts, Erwin Coumans, Jie Tan
+
+- Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control [[Paper](https://ieeexplore.ieee.org/iel7/8574473/8593358/08594448.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/cheetah-convex-mpc.pdf)]
+    - Jared Di Carlo, Patrick M. Wensing
+
+- Whole-Body Nonlinear Model Predictive Control Through Contacts for Quadrupeds [[Paper](https://ieeexplore.ieee.org/iel7/7083369/8302435/08276298.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/whole-force-mpc.pdf)]
+    - Michael Neunert, Markus Stäuble , Markus Giftthaler , Carmine D. Bellicoso
 
 2017
 
 - Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? [[Paper](https://dl.acm.org/doi/pdf/10.1145/3099564.3099567)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/action_space_matter.pdf)]
     - Xue Bin Peng, Michiel van de Panne
+
+- Policy-Regularized Model Predictive Control to Stabilize Diverse Quadrupedal Gaits for the MIT Cheetah [[Paper](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206268.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/policy-regular.pdf)]
+    - Gerardo Bledt, Patrick M. Wensing, and Sangbae Kim
 
