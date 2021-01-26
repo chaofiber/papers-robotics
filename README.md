@@ -1,7 +1,7 @@
-Notes of papers in robotics
+Notes of papers in robotics.
+
 
 2020
-
 - DeepGait: Planning and Control of Quadrupedal Gaits Using Deep Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/iel7/7083369/7339444/09028188.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/deepgait.pdf)]
     - Vassilios Tsounis, Mitja Alge, Joonho Lee, Farbod Farshidian, and Marco Hutter
 
@@ -20,6 +20,8 @@ Notes of papers in robotics
 - Multi-expert learning of adaptive legged locomotion [[Paper](https://robotics.sciencemag.org/content/5/49/eabb2174)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/multi-expert.pdf)]
     - Chuanyu Yang, Kai Yuan, Zhibin Li
 
+- Learning to Walk in the Real World with Minimal Human Effort [[Paper](https://arxiv.org/pdf/2002.08550.pdf)] [[Note](notes/learning-to-walk-real-world-minimum-human-effort.md)]
+    - Sehoon Ha, Peng Xu, Sergey Levine, Jie Tan
 
 2019
 - Frequency-Aware Model Predictive Control [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8629284)][[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/Frequency-Aware-Model-Predictive-Control.pdf)]
