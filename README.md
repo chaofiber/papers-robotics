@@ -23,6 +23,9 @@ Notes of papers in robotics.
 - Learning to Walk in the Real World with Minimal Human Effort [[Paper](https://arxiv.org/pdf/2002.08550.pdf)] [[Note](notes/learning-to-walk-real-world-minimum-human-effort.md)]
     - Sehoon Ha, Peng Xu, Sergey Levine, Jie Tan
 
+- Data Efficient Reinforcement Learning for Legged Robots [[Paper](http://proceedings.mlr.press/v100/yang20a/yang20a.pdf)] [[Note](notes/data-efficient-reinforcement-learning-for-legged-robots.md)]
+    - Yuxiang Yang, Ken Caluwaerts, Atil Iscen, Tingnan Zhang, Jie Tan, Vikas Sindhwani
+    
 2019
 - Learning to Walk via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/1812.11103.pdf)] [[Note](notes/learning-to-walk-via-deep-rl.md)]
     - Tuomas Haarnoja, Sehoon Ha
