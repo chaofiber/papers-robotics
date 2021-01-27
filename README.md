@@ -24,6 +24,10 @@ Notes of papers in robotics.
     - Sehoon Ha, Peng Xu, Sergey Levine, Jie Tan
 
 2019
+- Learning to Walk via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/1812.11103.pdf)] [[Note](notes/learning-to-walk-via-deep-rl.md)]
+    - Tuomas Haarnoja, Sehoon Ha
+
+
 - Frequency-Aware Model Predictive Control [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8629284)][[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/Frequency-Aware-Model-Predictive-Control.pdf)]
     - Ruben Grandia, Farbod Farshidian, Alexey Dosovitskiy,Ren ́e Ranftl, and Marco Hutter
     
