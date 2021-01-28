@@ -2,6 +2,9 @@ Notes of papers in robotics.
 
 
 2020
+- Practical Reinforcement Learning for MPC: Learning from sparse objectives in under an hour on a real robot [[Paper](https://arxiv.org/pdf/2003.03200.pdf)][[Note](notes/practival-rl-for-mpc-sparse-objective.md)]
+    - Napat Karnchanachari, Miguel I. Valls, David Hoeller, Marco Hutter
+    
 - DeepGait: Planning and Control of Quadrupedal Gaits Using Deep Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/iel7/7083369/7339444/09028188.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/deepgait.pdf)]
     - Vassilios Tsounis, Mitja Alge, Joonho Lee, Farbod Farshidian, and Marco Hutter
 
