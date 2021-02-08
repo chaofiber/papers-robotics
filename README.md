@@ -2,6 +2,12 @@
 
 2020
 
+- Learning Variable Impedance Control forContact Sensitive Tasks[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9146673&tag=1)[[Note](notes/learning-variable-impedance-control.md)]]
+  - Miroslav Bogdanovic, Majid Khadiv, Ludovic Righetti
+
+- DeepQ  Stepper:  A  framework  for  reactive  dynamic  walking  on  uneven terrain[[Paper](https://arxiv.org/pdf/2010.14834.pdf)[[Note](notes/deepQstepper.md)]]
+  - Avadesh Meduri, Majid Khadiv, Ludovic Righetti
+
 - Practical Reinforcement Learning for MPC: Learning from sparse objectives in under an hour on a real robot [[Paper](https://arxiv.org/pdf/2003.03200.pdf)][[Note](notes/practival-rl-for-mpc-sparse-objective.md)]
   - Napat Karnchanachari, Miguel I. Valls, David Hoeller, Marco Hutter
 
