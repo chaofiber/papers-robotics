@@ -2,6 +2,9 @@
 
 2020
 
+- Multi-Layered Safety for Legged Robots via Control Barrier Functions and Model Predictive Control [[Paper](https://arxiv.org/pdf/2011.00032.pdf)][[Note](notes/multi-layer-safety-cbf.md)]
+  - Ruben Grandia, Andrew J. Taylor, Aaron D. Ames, Marco Hutter
+
 - Learning Variable Impedance Control forContact Sensitive Tasks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9146673&tag=1)][[Note](notes/learning-variable-impedance-control.md)]
   - Miroslav Bogdanovic, Majid Khadiv, Ludovic Righetti
 

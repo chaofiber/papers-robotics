@@ -32,6 +32,7 @@
   - Dimension issue: quadrupedal robot has more degree to control, this will lead to difficulty for reinforcement learning as well, as the trained output/input dimension increases.
     - The idea of training both the joint position and the PD gain: Is it really feasible for higher dimensional robots? As the dimension doubles (assuming that the PD gain matrix is diagonal)
 - Capturability analysis: What is the status of this now? Because it is the first time I see this terminology, What are its main applications?
-    - In this paper, the capturability is captured by reinforcement learning, where the value function approximate the feasibility of all actions.
+  - In this paper, the capturability is captured by reinforcement learning, where the value function approximate the feasibility of all actions.
 - What is the up-to-date status of the planning algorithms for bipedal robots?
-- Can this step planner be applied onto a quadrupedal robot easily? 
+- Can this step planner be applied onto a quadrupedal robot easily?
+- All in all, it is a planning problem, the input dimensional is small, and also, we don't have horizon in this paper. ( To predict multiple steps in the future), because it is also possible that you go to the next step where no direction further is possible from that position.
