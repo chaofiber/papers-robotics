@@ -28,7 +28,7 @@
 ### Thoughts
 
 - What's the difference between a bipedal robot and a quadrupedal robot?
-  - Stability issue? quadrupedal is natually stable than bipedal. So a quadrupedal robot might be easier to transfer directly on the real robot?  (Need to be confirmed)
+  - Stability issue? quadrupedal is naturally stable than bipedal. So a quadrupedal robot might be easier to transfer directly on the real robot?  (Need to be confirmed)
   - Dimension issue: quadrupedal robot has more degree to control, this will lead to difficulty for reinforcement learning as well, as the trained output/input dimension increases.
     - The idea of training both the joint position and the PD gain: Is it really feasible for higher dimensional robots? As the dimension doubles (assuming that the PD gain matrix is diagonal)
 - Capturability analysis: What is the status of this now? Because it is the first time I see this terminology, What are its main applications?
@@ -36,3 +36,8 @@
 - What is the up-to-date status of the planning algorithms for bipedal robots?
 - Can this step planner be applied onto a quadrupedal robot easily?
 - All in all, it is a planning problem, the input dimensional is small, and also, we don't have horizon in this paper. ( To predict multiple steps in the future), because it is also possible that you go to the next step where no direction further is possible from that position.
+- In this paper, the planning of foot position and the trajectory generation is decoupled, but in some robots, those are coupled together in order to achieve dynamic feasibility at the cost of larger optimization problem, for example, WBC control, and in the form of QP optimization. What is the status in bipedal robots?
+- Terrain type? If applying it on the real robot, the simple case should be the terrain segments where the robot can step on, if it's non-regular terrain, unlikely it will be successful on the real robot.
+- The controller part can also be learned directly, instead of using some trajectory generation techniques.
+  - Input: capturability region, robot state estimations
+  - Output: joint position/ velocities, that can be used to compute the torque directly.

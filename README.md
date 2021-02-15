@@ -43,6 +43,9 @@
 
 2019
 
+- Robust Recovery Controller for a QuadrupedalRobot using Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/1901.07517.pdf)] [[Note](notes/robust-recover-controller-drl.md)]
+  - Joonho Lee, Jemin Hwangbo, and Marco Hutter
+
 - Learning to Walk via Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/1812.11103.pdf)] [[Note](notes/learning-to-walk-via-deep-rl.md)]
   - Tuomas Haarnoja, Sehoon Ha
 
