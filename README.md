@@ -43,6 +43,9 @@
 
 2019
 
+- Fast and Continuous Foothold Adaptation for Dynamic Locomotion Through CNNs [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642374&tag=1)][[Note](notes/fast-continuous-foothold-adaption-cnn.md)]
+  - Octavio Antonio Villarreal Magana, Victor Barasuol, Marco Camurri
+  
 - Robust Recovery Controller for a QuadrupedalRobot using Deep Reinforcement Learning [[Paper](https://arxiv.org/pdf/1901.07517.pdf)] [[Note](notes/robust-recover-controller-drl.md)]
   - Joonho Lee, Jemin Hwangbo, and Marco Hutter
 
@@ -65,6 +68,9 @@
   - Ruben Grandia, Farbod Farshidian, René Ranftl, Marco Hutter
 
 2018
+
+- Learning Sampling Distributions for Robot Motion Planning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460730)] [[Note](notes/learning-sampling-distribution-for-motion-planning.md)]
+  - Brian Ichter, James Harrison, Marco Pavone
 
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots [[Paper](https://arxiv.org/pdf/1804.10332.pdf?source%3Dpost_page---------------------------)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/sim-to-real.pdf)]
   - Jie Tan, Tingnan Zhang, Erwin Coumans, Atil Iscen
