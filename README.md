@@ -69,6 +69,9 @@
 
 2018
 
+- Robust  Rough-Terrain  Locomotion  with  a  Quadrupedal  Robot [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460731)] [[Note](notes/robust-rough-terrain-locomotion.md)]
+  - Peter Fankhauser, Marko Bjelonic, C. Dario Bellicoso, Takahiro Miki and Marco Hutter
+  
 - Learning Sampling Distributions for Robot Motion Planning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460730)] [[Note](notes/learning-sampling-distribution-for-motion-planning.md)]
   - Brian Ichter, James Harrison, Marco Pavone
 
