@@ -2,6 +2,9 @@
 
 2020
 
+- MPC-based  Controller  with  Terrain  Insight  for  Dynamic  Legged Locomotion [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197312)][[Note](notes/mpc-terrain-insight.md)]
+  - Octavio Villarreal, Victor Barasuol
+
 - Perceptive Locomotion in Rough Terrain - Online Foothold Optimization [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134750)][[Note](notes/perceptive-locomotion-intouch-terrain.md)]
   - Fabian Jenelten, Takahiro Miki, Aravind E Vijayan, Marko Bjelonic, and Marco Hutter
   
