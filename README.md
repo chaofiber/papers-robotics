@@ -2,6 +2,9 @@
 
 2020
 
+- Perceptive Locomotion in Rough Terrain - Online Foothold Optimization [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134750)][[Note](notes/perceptive-locomotion-intouch-terrain.md)]
+  - Fabian Jenelten, Takahiro Miki, Aravind E Vijayan, Marko Bjelonic, and Marco Hutter
+  
 - Multi-Layered Safety for Legged Robots via Control Barrier Functions and Model Predictive Control [[Paper](https://arxiv.org/pdf/2011.00032.pdf)][[Note](notes/multi-layer-safety-cbf.md)]
   - Ruben Grandia, Andrew J. Taylor, Aaron D. Ames, Marco Hutter
 
