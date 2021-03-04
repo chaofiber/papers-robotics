@@ -2,7 +2,7 @@
 ## MPC-based  Controller  with  Terrain  Insight  for  Dynamic  Legged Locomotion
 
 ### Octavio Villarreal, Victor Barasuol
-
+https://www.youtube.com/watch?v=oIw_EyzsmnM
 ### 4.3.2021
 
 ### Summary
