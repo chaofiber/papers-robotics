@@ -101,9 +101,13 @@
 - Policy-Regularized Model Predictive Control to Stabilize Diverse Quadrupedal Gaits for the MIT Cheetah [[Paper](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206268.pdf)] [[Note](https://github.com/chaofiber/papers-robotics/blob/master/notes/policy-regular.pdf)]
   - Gerardo Bledt, Patrick M. Wensing, and Sangbae Kim
 
+
+#
 # Notes in Leaning-To-Exploration
 
-2016
+Before 2016
 
 - Receding Horizon “Next–Best–View” Planner for 3D Exploration [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487281)][[Note](notes/receding-horizon-next-best-view.md)]
   - Andreas Bircher, Mina Kamel, Kostas Alexis, Helen Oleynikova1and Roland Siegwart
+- Rapidly-Exploring Random Trees: A New Tool for Path Planning [[Paper](http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)][[Note](notes/rapidly-exploring-random-tree.md)]
+  - Steven M.Lavalle
