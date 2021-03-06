@@ -3,7 +3,7 @@
 ## Perceptive Locomotion in Rough Terrain - Online Foothold Optimization
 
 ### Fabian Jenelten, Takahiro Miki, Aravind E Vijayan, Marko Bjelonic, and Marco Hutter
-
+https://www.youtube.com/watch?v=ViecsBmjusI
 ### 3.3.2021
 
 ### Summary
