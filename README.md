@@ -1,5 +1,10 @@
 # Notes of papers in robotics
 
+2021
+
+- Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion [[Paper](https://arxiv.org/pdf/2008.11867.pdf)][[Note](notes/Planning-in-learned-latent-action-spaces-for-generizable-locomotion.md)]
+  - Tianyu Li, Roberto Calandra, Deepak Pathak, Yuandong Tian, Franziska Meier, Akshara Rai
+
 2020
 
 - MPC-based  Controller  with  Terrain  Insight  for  Dynamic  Legged Locomotion [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197312)][[Note](notes/mpc-terrain-insight.md)]
