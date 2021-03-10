@@ -2,6 +2,10 @@
 
 2021
 
+- Learning a State Representation and Navigation inCluttered and Dynamic Environments [[Paper](https://arxiv.org/pdf/2103.04351.pdf)][[Note](notes/learning-state-representation-and-navigation-dynamic-envir.md)]
+  - David Hoeller, Lorenz Wellhausen, Farbod Farshidian, Marco Hutter
+
+
 - Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion [[Paper](https://arxiv.org/pdf/2008.11867.pdf)][[Note](notes/Planning-in-learned-latent-action-spaces-for-generizable-locomotion.md)]
   - Tianyu Li, Roberto Calandra, Deepak Pathak, Yuandong Tian, Franziska Meier, Akshara Rai
 
@@ -114,5 +118,6 @@ Before 2016
 
 - Receding Horizon “Next–Best–View” Planner for 3D Exploration [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487281)][[Note](notes/receding-horizon-next-best-view.md)]
   - Andreas Bircher, Mina Kamel, Kostas Alexis, Helen Oleynikova1and Roland Siegwart
+  
 - Rapidly-Exploring Random Trees: A New Tool for Path Planning [[Paper](http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)][[Note](notes/rapidly-exploring-random-tree.md)]
   - Steven M.Lavalle
