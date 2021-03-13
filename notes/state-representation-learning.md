@@ -31,3 +31,4 @@
 
 - Sometimes dynamics constraints are also considered, in the sense that multiple time-dependent inputs are fed into the encoders. Usually this will relate to predicting a next state and also will need actions.
 - When we say constraints, we usually simply refer the dimension of the latent representation.
+- Ways of evaluate the encoders: Can use t-SNE method to project the hidden space into a two dimensional space and see if similar input images would lead to close points aon the t-SNE visualization.
