@@ -84,6 +84,9 @@
 
 2018
 
+- State Representation Learning for Control:An Overview [[Paper](https://reader.elsevier.com/reader/sd/pii/S0893608018302053?token=8A7822471CA0633A4E7433C16FA86D69B42240E3470B25E2F117629AA88BE6D38C7E48A0878099847A88D03C7DA73E58)] [[Note](notes/state-representation-learning.md)]
+  - Timothée Lesort, David Filliat
+  
 - Robust  Rough-Terrain  Locomotion  with  a  Quadrupedal  Robot [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460731)] [[Note](notes/robust-rough-terrain-locomotion.md)]
   - Peter Fankhauser, Marko Bjelonic, C. Dario Bellicoso, Takahiro Miki and Marco Hutter
   
